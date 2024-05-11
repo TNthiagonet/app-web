@@ -1,4 +1,4 @@
-Testar projeto [Create React App](https://tnthiagonet.github.io/app-web/).
+Testar projeto [Projeto rodando](https://tnthiagonet.github.io/app-web/).
 
 # Getting Started with Create React App
 
